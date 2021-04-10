@@ -1,0 +1,5 @@
+python-telegram-bot~=13.4.1
+requests~=2.25.0
+beautifulsoup4~=4.4.1
+html-table-parser-python3~=0.1.5
+timeloop~=1.0.2
